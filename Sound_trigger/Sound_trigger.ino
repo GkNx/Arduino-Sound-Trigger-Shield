@@ -5,8 +5,8 @@
 int soundVal;
 
 int outputValue;
-int delaytime = 0;
-int delayedtime = 0;
+int delaytime;
+int delayedtime;
 
 long ilkshutter = 0;
 
